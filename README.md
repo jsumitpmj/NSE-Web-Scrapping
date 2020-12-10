@@ -1,2 +1,1 @@
-# Web-Scrapping
-Using Selenium 
+# Web-Scrapping-NSE
